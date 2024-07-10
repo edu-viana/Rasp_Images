@@ -16,7 +16,7 @@ This contents refers to: <br>
 </p>
 
 Releases: 
-20240516_IHM_Planta: Backup da rasp IHM instalada na porta daPlanta Piloto 4.0 (interface grafana)   
+20240516_IHM_Planta: Backup da rasp IHM instalada na porta da Planta Piloto 4.0 (interface grafana)   
 20240526_Complete-r00: Rodando na Planta Piloto, com node-red, openplc e grafana.  
 
 Student: Eduardo Amaro Viana (eduardo.viana@unesp.br)    
